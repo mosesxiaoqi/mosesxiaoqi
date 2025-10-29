@@ -22,12 +22,8 @@
 ---
 
 ## 📊 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesxiaoqi&show_icons=true&theme=tokyonight&count_private=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesxiaoqi&layout=compact&theme=tokyonight&langs_count=10&hide=ruby,html,css)
-
+<img src="https://github-readme-stats.vercel.app/api?username=mosesxiaoqi&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesxiaoqi&layout=compact&theme=tokyonight&langs_count=10&hide=ruby,html,css" height="150" />
 ---
 
 ## 🔭 当前学习与计划
