@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 使用语言与工具
+## 🧠 语言与工具
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesxiaoqi&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesxiaoqi&layout=compact&theme=tokyonight)
