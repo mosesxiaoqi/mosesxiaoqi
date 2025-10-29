@@ -25,8 +25,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesxiaoqi&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesxiaoqi&layout=compact&theme=tokyonight&hide=ruby,html,css)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesxiaoqi&layout=compact&theme=tokyonight&langs_count=10&hide=ruby,html,css)
 
 ---
 
