@@ -6,19 +6,6 @@
 
 ---
 
-## 🚀 代表项目
-
-| 项目 | 简介 | 技术栈 |
-|------|------|--------|
-| [**flash_loan**](https://github.com/mosesxiaoqi/flash_loan) | 基于 Uniswap V2 实现闪电贷套利合约 | Solidity |
-| [**LaiBrowserWallet**](https://github.com/mosesxiaoqi/LaiBrowserWallet) | 一个名为 “来” 的浏览器插件钱包 | TypeScript |
-| [**Staking**](https://github.com/mosesxiaoqi/Staking) | 实现常见的质押（Staking）算法 | Solidity |
-| [**Solana_dex**](https://github.com/mosesxiaoqi/Solana_dex) | 基于 Solana 链的 AMM 去中心化交易所 | Rust |
-| [**Zircon**](https://github.com/mosesxiaoqi/Zircon) | 使用 Erigon 搭建私有链的完整方案 | Shell · Go |
-| [**mydex**](https://github.com/mosesxiaoqi/mydex) | 仿照 Uniswap V2 实现的 DEX | Solidity |
-
----
-
 ## 🧠 使用语言与工具
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
