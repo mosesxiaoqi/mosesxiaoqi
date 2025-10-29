@@ -21,6 +21,21 @@
 
 ---
 
+## 📊 GitHub 统计
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesxiaoqi&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesxiaoqi&layout=compact&theme=tokyonight)
+
+---
+
+## 🔭 当前学习与计划
+
+- 学习 EVM 内部机制（opcode、gas 计算、storage layout）  
+- 研究 Solidity 安全模式（Reentrancy、DelegateCall、Slot Collision）  
+- 构建一个轻量级跨链消息验证原型（Go + Solidity）
+
+---
+
 ## 📫 联系方式
 📧 [moseszs111@gmail.com](mailto:moseszs111@gmail.com) 
 🌐 [GitHub 主页](https://github.com/mosesxiaoqi)
